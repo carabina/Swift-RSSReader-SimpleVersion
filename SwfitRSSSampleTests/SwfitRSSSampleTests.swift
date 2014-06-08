@@ -2,8 +2,6 @@
 //  SwfitRSSSampleTests.swift
 //  SwfitRSSSampleTests
 //
-//  Created by shiro kobayashi on 2014/06/08.
-//  Copyright (c) 2014年 fullcorder. All rights reserved.
 //
 
 import XCTest
