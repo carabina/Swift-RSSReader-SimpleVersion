@@ -1,4 +1,4 @@
-Swift RSS Sample
+Swift RSS Sample SimpleVersion  
 ======================
 
 The version that was more simple the sample below.  
